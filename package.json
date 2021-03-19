@@ -1,0 +1,23 @@
+{
+  "name": "node.js-lambda-serverless-project",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Amr Shaker <amr.e.shaker@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmrEssShaker/SwensonHeChallenge/issues"
+  },
+  "homepage": "https://github.com/AmrEssShaker/SwensonHeChallenge#readme",
+  "dependencies": {
+    "mongoose": "^5.11.16",
+    "mongoose-lean-virtuals": "^0.7.6"
+  }
+}
